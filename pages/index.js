@@ -16,9 +16,7 @@ import { Bio, BioYear } from '../components/bio'
 import Layout from '../components/layouts/article.js'
 import {
     IoLogoTwitter,
-    IoLogoInstagram,
     IoLogoGithub,
-    IoLogoDiscord
   } from 'react-icons/io5'
 
 const Page = () => {

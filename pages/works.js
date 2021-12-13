@@ -26,7 +26,7 @@ const Works = () => {
      </Section>
      <Section>
       <WorkGridItem id="startAuthn" title="startAuthn" thumbnail={thumbStartAuthn}>
-       Site desenvolvido em NextJS 
+       Ferramenta desenvolvida em Delphi para fins fiscais
       </WorkGridItem>
      </Section>
      <Section>

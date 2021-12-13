@@ -11,7 +11,7 @@ Button
 const NotFound = ( ) => {
     return(
         <Container>
-        <Heading as="h1">Conteudo Nao Encontrado</Heading>
+        <Heading as="h1">Conteúdo não encontrado</Heading>
           <Text> The page you&apos;re looking for was not found.</Text>
           <Divider my={6}/>
           <Box my={6} align="center">

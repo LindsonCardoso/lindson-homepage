@@ -30,10 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/works/startAuthn": [
+    "/works": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/works/startAuthn.js"
+      "static/chunks/pages/works.js"
     ]
   },
   "ampFirstPages": []

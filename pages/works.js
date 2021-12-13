@@ -6,13 +6,14 @@ import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 import Layout from '../components/layouts/article'
 
+import thumbStartOs from '../public/images/works/startOs.png'
+import thumbStartAuthn from '../public/images/works/startAuth.png'
+import thumbZltecnologiaSite from '../public/images/works/zltecnologia.png'
+import thumbWhatsappApi from '../public/images/works/whatsapp.png'
+
 
 const Works = () => {
 
-const thumbStartOs = '../public/images/works/startOs.png'
-const thumbStartAuthn = '../public/images/works/startAuth.png'
-const thumbZltecnologiaSite = '../public/images/works/zltecnologia.png'
-const thumbWhatsappApi = '../public/images/works/whatsapp.png'
 
  return(
   <Layout title="Works">
